@@ -7,3 +7,6 @@ my data science and analysis project
 2. R programming
 3. Dashboard - Looker studio
 4. Machine Learning
+
+## Contact Me
+phanupong.chee@gmail.com
